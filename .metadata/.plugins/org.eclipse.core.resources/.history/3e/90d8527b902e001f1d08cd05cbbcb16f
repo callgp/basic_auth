@@ -1,0 +1,3 @@
+spring.application.name=53_Http_Basic_Auth_Maven
+spring.application.user.name=gp
+spring.application.user.name=gppwd

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WelcomeRestController.java&apos; to &apos;100_Spring_Security/src/main/java/com.ait&apos;&#x0D;&#x0A;- Original project: &apos;53_Http_Basic_Auth_Maven&apos;&#x0D;&#x0A;- Destination element: &apos;100_Spring_Security/src/main/java/com.ait&apos;&#x0D;&#x0A;- Original element: &apos;com.ait.rest.WelcomeRestController.java&apos;" description="Copy compilation unit" destination="=100_Spring_Security/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ait" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ait.rest{WelcomeRestController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1718839106353" units="1" version="1.0"/>
+</session>

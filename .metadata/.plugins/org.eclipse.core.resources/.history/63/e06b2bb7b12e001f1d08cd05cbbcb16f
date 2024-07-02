@@ -1,0 +1,5 @@
+package com.ait.rest.security;
+
+public class AppSecurityConfig {
+
+}

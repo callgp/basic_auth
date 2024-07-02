@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;53_Security_Register_Login&apos;" deleteContents="true" description="Delete resource &apos;53_Security_Register_Login&apos;" element1="/53_Security_Register_Login" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1718131235707"/>
+</session>
